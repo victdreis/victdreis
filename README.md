@@ -1,4 +1,4 @@
-## _Hi 👋, I'm Victoria !_ ☕ 🧿
+## _Hi 👋, I'm Victoria !_ ☕ 🧿 🌈
 
 _Data engineer at [Beegol](https://beegol.com/)_<br>
 
