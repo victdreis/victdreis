@@ -1,6 +1,6 @@
 ## _Hi 👋, I'm Victoria !_ ☕ 🧿 🌈
 
-_Machine learning engineer at [Zallpy](https://zallpy.com/)_<br>
+_Machine learning engineer at [Abstra IO](https://www.abstra.io/pt)_<br>
 
 Experienced professional specializing in machine learning engineering, data engineering, and decision-making research using natural language processing (NLP). Proficient Python developer with expertise in data engineering, cloud services (AWS, GCP, Azure), artificial intelligence (AI), large language models (LLMs) and, generative AI.
 
